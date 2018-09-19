@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\TaskMatrixes\TaskMatrixes\bin\Debug\TaskMatrixes.exe.config
+C:\Users\Admin\source\repos\TaskMatrixes\TaskMatrixes\bin\Debug\TaskMatrixes.exe
+C:\Users\Admin\source\repos\TaskMatrixes\TaskMatrixes\bin\Debug\TaskMatrixes.pdb
+C:\Users\Admin\source\repos\TaskMatrixes\TaskMatrixes\obj\Debug\TaskMatrixes.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\TaskMatrixes\TaskMatrixes\obj\Debug\TaskMatrixes.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TaskMatrixes\TaskMatrixes\obj\Debug\TaskMatrixes.exe
+C:\Users\Admin\source\repos\TaskMatrixes\TaskMatrixes\obj\Debug\TaskMatrixes.pdb
